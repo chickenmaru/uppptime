@@ -6,7 +6,7 @@ sites:
   - name: youtube
     url: https://www.youtube.com/
   - name: google
-    url: https://www.google.com.tw/?hl=zh_TW
+    url: https://www.google.com.tw/
   - name: facebook
     url: https://www.facebook.com/
   - name: yahoo
